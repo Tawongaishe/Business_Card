@@ -1,0 +1,79 @@
+.card{
+    width: 260px;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #003f88  ;
+    margin: 0px auto;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+img{
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.name{
+    color: #00296b;
+    animation-name: colorTawo;
+    animation-duration: 5s;
+}
+
+p{
+    color: black
+}
+
+p:hover{
+    color: #003f88
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+button{
+    border: none;
+    width: 95px;
+    height: 30px;
+    background-color: #ffd500;
+    color: black 
+}
+
+button:hover{
+    background-color:  beige
+}
+
+.contact{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    margin: 0px auto 0 auto;
+}
+
+
+
+
+/*
+add my animation to change my name feColorMatri
+*/
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
