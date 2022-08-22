@@ -5,6 +5,11 @@ width: 50%;
 display: block;
 margin: 80px auto 0px auto;}
 
+.VBCD{
+animation-name: VBC;
+animation duration: 5s;
+animation-iteration-count: infinite}
+
 
 .card{
     width: 260px;
