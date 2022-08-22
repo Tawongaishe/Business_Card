@@ -1,7 +1,6 @@
 .My_intro{
 color: #00296b;
 text-align: center;
-width: 80%;
 margin-top: 80px}
 
 .intro{
@@ -32,8 +31,6 @@ img{
 
 .name{
     color: #00296b;
-    animation-name: colorTawo;
-    animation-duration: 5s;
 }
 
 p{
