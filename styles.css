@@ -5,10 +5,16 @@ width: 50%;
 display: block;
 margin: 80px auto 0px auto;}
 
+
+@keyframes VBC{
+from {background-color:none;}
+    to {background-color: #ffd500;}
+}
+
 .VBCD{
 animation-name: VBC;
 animation-duration: 5s;
-animation-iteration-count: infinite}
+}
 
 
 .card{
