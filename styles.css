@@ -7,8 +7,9 @@ margin: 80px auto 0px auto;}
 
 
 @keyframes border{
-from {border:1px solid #003f88;}
-    to {border: 2px solid #ffd500;}
+    0% {border:1px solid #003f88;}
+    50%{border: 1px solid #ffd500;}
+    100%{border: 1px solid #003f88}
 }
 
 
