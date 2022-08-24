@@ -23,6 +23,7 @@ margin: 80px auto 0px auto;}
     animation-name: border;
     animation-duration: 20s;
     animation-iteration-count: infinite;
+    border-radius: 5px;
 }
 
 body{
